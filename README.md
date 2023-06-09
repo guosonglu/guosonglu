@@ -1,7 +1,3 @@
-<div>
-    <img width="100%" src="./github-header-image.png"/>
-</div>
-
 #### 项目统计
 
 <div style="display: flex;gap: 10px;">
